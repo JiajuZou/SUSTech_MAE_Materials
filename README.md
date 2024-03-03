@@ -18,7 +18,7 @@
 |  MAE316   | Experiments in Aircraft Structural Mechanics    | 航空结构强度实验   | Experiment Reports | 
 |  EE104    | Fundamentals of Electric Circuits               | 电路基础          | HW | 
 |  ME301    | Dynamics and Vibration                          | 动力学与机械振动   | HW, Experiment Reports, ExamPapers | 
-|  MAE308   | Heat Transfer                                   | 传热学            | HW | 
+|  MAE308   | Heat Transfer                                   | 传热学            | HW, MidExam Review, FinalExam CP | 
 |  MAE407   | Jet and Propulsion                              | 喷气推进          | HW, Exam Key Points|
 |  ME303    | Fundamentals of Machine Design                  | 机械设计基础       | HW, Exam Key Points|
 |  MAE405   | Aerodynamics                                    | 空气动力学         | HW, Notes, Exam Key Points |
