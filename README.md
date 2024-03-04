@@ -21,10 +21,10 @@
 |  MAE308   | Heat Transfer                                   | 传热学            | HW, MidExam Review, FinalExam CP | 
 |  MAE407   | Jet and Propulsion                              | 喷气推进          | HW, Exam Key Points|
 |  ME303    | Fundamentals of Machine Design                  | 机械设计基础       | HW, Exam Key Points|
-|  MAE405   | Aerodynamics                                    | 空气动力学         | HW, Notes, Exam Key Points |
+|  MAE405   | Aerodynamics                                    | 空气动力学         | HW, Notes, Exam Key Points|
 |  MAE412   | Aeroacoustics                                   | 航空声学与气动噪声  | HW, Exam Key Points|
-|  MAE310   | Computational Solid Mechanics                   | 计算固体力学       | HW |
-|  ME103    | Awareness Practice of Manufacturing Engineering | 金工实习           | Experiment Reports |
+|  MAE310   | Computational Solid Mechanics                   | 计算固体力学       | HW, Exam Key Points|
+|  ME103    | Awareness Practice of Manufacturing Engineering | 金工实习           | Experiment Reports|
 
 </div>
 
