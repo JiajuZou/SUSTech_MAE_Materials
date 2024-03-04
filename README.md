@@ -14,7 +14,7 @@
 |  MAE305   | Engineering Thermodynamics                      | 工程热力学       | HW, Summary |
 |  MAE315   | Aero-Thermal Fluid Experiments                  | 航空热流体实验    |  Experiment Reports  |
 |  MAE312   | Aircraft Flight Dynamics                        | 航空飞行器动力学  | HW, ExamPapers |
-|  MAE307   | Aircraft Structural Strength                    | 航空结构强度      | Prject Reports, HW | 
+|  MAE307   | Aircraft Structural Strength                    | 航空结构强度      | Prject Reports, HW, MidExam| 
 |  MAE316   | Experiments in Aircraft Structural Mechanics    | 航空结构强度实验   | Experiment Reports | 
 |  EE104    | Fundamentals of Electric Circuits               | 电路基础          | HW | 
 |  ME301    | Dynamics and Vibration                          | 动力学与机械振动   | HW, Experiment Reports, Exam Key Points| 
