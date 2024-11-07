@@ -1,18 +1,18 @@
 收录南方科技大学-力学与航空航天工程系-航空航天工程专业本科生的主要专业课程资料  
-个人能力有限，内容正在不断完善，非常欢迎补充~
-有任何问题非常欢迎联系(*^_^*)
-Email: zoujj2020@mail.sustech.edu.cn
-Wechat: Jajiu_Zour
+个人能力有限，内容正在不断完善，非常欢迎补充~  
+有任何问题非常欢迎联系(*^_^*)  
+Email: zoujj2020@mail.sustech.edu.cn  
+Wechat: Jajiu_Zour  
 
-This repository keeps some materials of the main courses belonging to the department of Mechanics and Aerospace Engineering in SUSTech,
-especially Aerospace Engineering.
+This repository keeps some materials of the main courses belonging to the department of Mechanics and Aerospace Engineering in SUSTech,  
+especially Aerospace Engineering.  
 
-The follwoing content is still updating,
-it'll be very very appreciated if you have any better materials ~~since the ability of the owner is not infinite~~.
+The follwoing content is still updating,  
+it'll be very very appreciated if you have any better materials ~~since the ability of the owner is not infinite~~.  
 
-Contact me if you have any trouble
-Email: zoujj2020@mail.sustech.edu.cn
-Wechat: Jajiu_Zour
+Contact me if you have any trouble  
+Email: zoujj2020@mail.sustech.edu.cn  
+Wechat: Jajiu_Zour  
 
 ***
 
