@@ -5,10 +5,10 @@
 微信: Jajiu_Zour  
 
 This repository keeps some materials of the main courses belonging to the department of Mechanics and Aerospace Engineering in SUSTech,  
-especially Aerospace Engineering.  
+especially Aerospace Engineering ~~which is the owner's major~~.  
 
 The follwoing content is still updating,  
-it'll be very very appreciated if you have any better materials ~~since the ability of the owner is not infinite~~.  
+it's very very appreciated if you have any better materials to share ~~since the time and energy of the owner are not infinite~~.  
 
 Contact me if you have any trouble  
 Email: zoujj2020@mail.sustech.edu.cn  
