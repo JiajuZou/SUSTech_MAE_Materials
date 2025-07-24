@@ -51,7 +51,7 @@ To be continued...
 </div>
 
 ***
-## Don’t reduce your college life to a repeat of high school.  
+## Don’t reduce your college life to a repeat of Chinese high school.  
 “我经常思考，怎么减少大学生的焦虑，我觉得应当从提高大学生的GPA获取效率入手。  
 由于种种原因，一些学校的大学生，花了过多的时间在考试复习中，把大学过成了高中——几乎没有时间在最宝贵的年纪探索更多的可能性。  
 我认为的理想状况是，只需要在工作日每天花不超过八小时学习（一周40小时），就可以获得3.5以上的GPA。  
@@ -70,3 +70,8 @@ Attendance, Assignment, Quiz, Midterm Exam, Project, Final Exam ...
 * 2024-12-09 Update  
 Delete the homework answers of all the courses given in the above Table.  
 **Plagiarism is soooooo bad in your study !!! 😡😡😡**
+
+* 2025-07-24 Update  
+IELTS preparation tips for Chinese students: [雅思备考指南](https://sustech-application.com/post/zoujj20/)  
+SUSTech Application: [南方科技大学飞跃手册](https://sustech-application.com/) (very useful website)  
+**Key: practice makes perfect.💪💪💪**  
